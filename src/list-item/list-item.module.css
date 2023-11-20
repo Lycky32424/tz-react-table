@@ -1,0 +1,37 @@
+.listItem {
+    width: 85%;
+    background-color: darkgray;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 30px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.no_margin {
+    margin: 0;
+}
+
+.no_li_style {
+    list-style-type: none;
+}
+
+.width_1 {
+    width: 50px;
+}
+
+.width_2 {
+    width: 100px;
+}
+
+.width_3 {
+    width: 150px;
+}
+
+.width_4 {
+    width: 200px;
+}
